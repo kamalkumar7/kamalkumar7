@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [YouTube Clone](https://github.com/kamalkumar7/YT_Clone)
 
-- 🌱 I’m currently learning **Kubernetes,AWS**
+- 🌱 I’m currently learning **Next JS,Kubernetes,AWS and AI**
 
 - 👯 I’m looking to collaborate on [Food Review App](https://github.com/kamalkumar7/FoodReview)
 
